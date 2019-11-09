@@ -1,5 +1,5 @@
 # git-fire
-PowerShell version for [git-fire](https://github.com/qw3rtman/git-fire).
+PowerShell version of [git-fire](https://github.com/qw3rtman/git-fire).
 
 ## Usage
 ``` powershell
