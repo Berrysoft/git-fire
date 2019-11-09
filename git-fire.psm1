@@ -18,6 +18,7 @@ function Set-FireBranch {
     <#
     .SYNOPSIS
     git-fire
+    git-fire "FIRE!!!"
     git-fire -m "FIRE!!!"
     .DESCRIPTION
     Create a new branch, commit and push.
